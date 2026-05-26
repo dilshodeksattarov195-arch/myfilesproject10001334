@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevrocess",
+        "uuid": 6608636,
+        "checksum": "hs7in"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
